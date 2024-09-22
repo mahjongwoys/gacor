@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahjongwoys.github.io/gacor/sitemap.xml
